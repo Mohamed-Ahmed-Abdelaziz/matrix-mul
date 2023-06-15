@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678689397 source:/home/mohamed/Cprojects/matrix-mul/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
